@@ -1,0 +1,1358 @@
+{
+  "matematicas": [
+    {
+      "pregunta": "Una abeja poliniza 10 flores en un minuto. ¿Cuántas flores polinizará en 5 minutos?",
+      "opciones": [
+        "500 flores",
+        "15 flores",
+        "50 flores"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué debemos añadir a la derecha de un número para multiplicarlo por 10, 100 o 1.000?",
+      "opciones": [
+        "Uno, dos o tres ceros",
+        "Una coma decimal",
+        "Uno, dos o tres unos"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuánto es 2 x 100?",
+      "opciones": [
+        "2.000",
+        "20",
+        "200"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuánto es 2 x 1.000?",
+      "opciones": [
+        "20.000",
+        "200",
+        "2.000"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué número equivale a 'doce veces cien' (12 x 100)?",
+      "opciones": [
+        "120",
+        "1.200",
+        "12.000"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué número equivale a 'cinco veces mil' (5 x 1.000)?",
+      "opciones": [
+        "500",
+        "50.000",
+        "5.000"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué número falta en la multiplicación: 6 x ___ = 6.000?",
+      "opciones": [
+        "100",
+        "1.000",
+        "10"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué número falta en la multiplicación: ___ x 4 = 400?",
+      "opciones": [
+        "10",
+        "1.000",
+        "100"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué número falta en la multiplicación: 300 x ___ = 3.000?",
+      "opciones": [
+        "100",
+        "1.000",
+        "10"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué número falta en la multiplicación: ___ x 80 = 8.000?",
+      "opciones": [
+        "1.000",
+        "10",
+        "100"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "María tiene 4 billetes de 10 € y 2 billetes de 5 €. ¿Cuánto dinero tiene en total?",
+      "opciones": [
+        "45 €",
+        "60 €",
+        "50 €"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Con los 50 € que tiene María, ¿qué chaqueta puede comprar si cuestan 45 €, 55 € y 60 €?",
+      "opciones": [
+        "La chaqueta verde de 55 €",
+        "La chaqueta amarilla de 45 €",
+        "La chaqueta azul de 60 €"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Se han apuntado 3.812 corredores a una carrera y hay 4 cajas de 1.000 dorsales cada una. ¿Cuántos dorsales sobrarán?",
+      "opciones": [
+        "188 dorsales",
+        "288 dorsales",
+        "88 dorsales"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Álvaro tiene 2 billetes de 100 € y 15 billetes de 10 €. ¿Cuánto dinero tiene ahorrado?",
+      "opciones": [
+        "215 €",
+        "350 €",
+        "305 €"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Sara tiene 3 billetes de 100 € y 2 billetes de 10 €. ¿Quién tiene más dinero: Álvaro (350 €) o Sara?",
+      "opciones": [
+        "Álvaro, porque Sara tiene 320 €",
+        "Tienen exactamente el mismo dinero",
+        "Sara, porque tiene 500 €"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Laia compra 3 plantas a 12 € cada una. ¿Cuánto le cuestan las tres plantas en total?",
+      "opciones": [
+        "36 €",
+        "15 €",
+        "32 €"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Cuando colocamos una multiplicación en torre, ¿qué factor se recomienda poner arriba?",
+      "opciones": [
+        "Da igual, siempre da un resultado distinto",
+        "El factor mayor",
+        "El factor más pequeño"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar 121 x 4?",
+      "opciones": [
+        "444",
+        "484",
+        "848"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar 43 x 3?",
+      "opciones": [
+        "126",
+        "73",
+        "129"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar 534 x 2?",
+      "opciones": [
+        "1.066",
+        "1.068",
+        "1.608"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar 321 x 4?",
+      "opciones": [
+        "1.284",
+        "1.244",
+        "1.281"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estas multiplicaciones tiene un producto mayor: 91 x 5 o 201 x 4?",
+      "opciones": [
+        "201 x 4 (que da 804)",
+        "91 x 5 (que da 455)",
+        "Ambas dan el mismo resultado"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es el producto de 3 x 513?",
+      "opciones": [
+        "1.539",
+        "1.536",
+        "1.519"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la aproximación a las unidades de millar del resultado de 3.302 x 3 (que es 9.906)?",
+      "opciones": [
+        "9.000",
+        "9.500",
+        "10.000"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Una furgoneta lleva 51 paquetes de 6 botellas de agua y otra lleva 92 paquetes de 4 botellas. ¿Cuál lleva más botellas?",
+      "opciones": [
+        "La de 92 paquetes de 4 botellas (368 botellas)",
+        "Las dos llevan 300 botellas",
+        "La de 51 paquetes de 6 botellas (306 botellas)"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Paz nada 2 km, recorre 40 km en bici y corre 10 km cada vez que entrena. Si entrena 3 veces esta semana, ¿qué distancia recorre en total?",
+      "opciones": [
+        "52 km",
+        "126 km",
+        "156 km"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Si van a plantar 3 botes con 125 semillas en cada uno, ¿cuántas semillas plantarán en total?",
+      "opciones": [
+        "375 semillas",
+        "370 semillas",
+        "365 semillas"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar 216 x 5?",
+      "opciones": [
+        "1.180",
+        "1.080",
+        "1.050"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar 472 x 3?",
+      "opciones": [
+        "1.216",
+        "1.415",
+        "1.416"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar 307 x 7?",
+      "opciones": [
+        "2.179",
+        "2.149",
+        "2.109"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar 302 x 8?",
+      "opciones": [
+        "2.486",
+        "2.406",
+        "2.416"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Para multiplicar 3 números (por ejemplo, 5 x 2 x 3), ¿cómo puedes hacerlo fácilmente?",
+      "opciones": [
+        "Solo multiplicas el primero por el último",
+        "Multiplicas dos de ellos (5 x 2 = 10) y el resultado por el tercero (10 x 3 = 30)",
+        "Sumas los tres números y luego los multiplicas por 10"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "En 3 estanterías caben 274 libros en cada una. ¿Cuántos libros hay en total?",
+      "opciones": [
+        "622 libros",
+        "822 libros",
+        "812 libros"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar 245 x 8?",
+      "opciones": [
+        "1.660",
+        "1.920",
+        "1.960"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Un minuto tiene 60 segundos. ¿Cuántos segundos hay en 5 minutos?",
+      "opciones": [
+        "65 segundos",
+        "300 segundos",
+        "360 segundos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Un día tiene 24 horas. ¿Cuántas horas hay en una semana (7 días)?",
+      "opciones": [
+        "174 horas",
+        "168 horas",
+        "148 horas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Un año tiene 365 días. ¿Cuántos días hay en 2 años?",
+      "opciones": [
+        "630 días",
+        "720 días",
+        "730 días"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Claudia nada 425 metros al día y su hermano Felipe nada el doble. ¿Cuánto nada Felipe en un día?",
+      "opciones": [
+        "840 metros",
+        "427 metros",
+        "850 metros"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Un electricista necesita 4 trozos de cable de 57 metros cada uno (228 m en total). ¿Qué rollo debe elegir entre 220 m, 230 m y 240 m para que no le falte cable y sobre lo menos posible?",
+      "opciones": [
+        "El rollo de 230 metros",
+        "El rollo de 220 metros",
+        "El rollo de 240 metros"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Un armario soporta un máximo de 525 kg. Si cada caja pesa 75 kg, ¿cuántas cajas como máximo se pueden guardar?",
+      "opciones": [
+        "8 cajas (75 x 8 = 600 kg)",
+        "5 cajas (75 x 5 = 375 kg)",
+        "7 cajas (75 x 7 = 525 kg)"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "En un jardín hay 320 amapolas y el triple de margaritas. ¿Cuántas margaritas hay en el jardín?",
+      "opciones": [
+        "960 margaritas",
+        "323 margaritas",
+        "640 margaritas"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Hugo tiene 3 camisetas y 2 pantalones. ¿Cuántas combinaciones diferentes de ropa puede formar?",
+      "opciones": [
+        "6 combinaciones",
+        "5 combinaciones",
+        "8 combinaciones"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "El abeto más alto del parque mide 23 m y la secuoya Hyperion mide 5 veces más. ¿Cuánto mide Hyperion?",
+      "opciones": [
+        "105 metros",
+        "115 metros",
+        "28 metros"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Un menú tiene 3 primeros platos y 3 segundos platos. ¿Cuántas combinaciones diferentes de menú se pueden elegir?",
+      "opciones": [
+        "9 combinaciones",
+        "6 combinaciones",
+        "12 combinaciones"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "En un vivero hay 7 variedades de orquídeas y cada variedad tiene 8 colores distintos. ¿Cuántas orquídeas diferentes se venden?",
+      "opciones": [
+        "15 orquídeas",
+        "64 orquídeas",
+        "56 orquídeas"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Calcula mentalmente: ¿cuánto es 317 + 40?",
+      "opciones": [
+        "347",
+        "717",
+        "357"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "En el vivero había 376 cactus y esta mañana han comprado 50. ¿Cuántos cactus quedan?",
+      "opciones": [
+        "326 cactus",
+        "426 cactus",
+        "336 cactus"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Una planta de guisantes tiene 28 vainas con 9 guisantes en cada vaina. ¿Cuántos guisantes puedes recolectar?",
+      "opciones": [
+        "182 guisantes",
+        "242 guisantes",
+        "252 guisantes"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Una pista de atletismo mide 400 metros. Si Ana da 9 vueltas completas, ¿cuántos metros recorre en total?",
+      "opciones": [
+        "4.500 metros",
+        "3.600 metros",
+        "360 metros"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Los helechos necesitan 3 horas de sol al día y las lavandas necesitan el triple para florecer. ¿Cuántas horas de sol necesita la lavanda cada día?",
+      "opciones": [
+        "12 horas de sol",
+        "9 horas de sol",
+        "6 horas de sol"
+      ],
+      "correcta": 1
+    }
+  ],
+  "lengua": [
+    {
+      "pregunta": "¿Quiénes son los tres cerditos que escuchan el cuento antes de dormir?",
+      "opciones": [
+        "Pedro, Juan y María",
+        "Lucas, Anita y Dani",
+        "Martín, Luis y Nicolás"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se titula el cuento que les cuenta la madre a los tres cerditos?",
+      "opciones": [
+        "El lobo y la cabra",
+        "Caperucita Roja",
+        "Los tres humanitos"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa la palabra 'enternece' que aparece en la lectura?",
+      "opciones": [
+        "Da mucho miedo",
+        "Da ternura",
+        "Produce enfado"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa la palabra 'picardía' en el cuento?",
+      "opciones": [
+        "Mucha tristeza",
+        "Sueño profundo",
+        "Intención traviesa"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "En el cuento de 'Los tres humanitos', ¿de qué material hace su casa Martín, el hermano pequeño?",
+      "opciones": [
+        "De paja",
+        "De ladrillos",
+        "De madera"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿De qué material construye su casa Luis, el hermano glotón?",
+      "opciones": [
+        "De piedra",
+        "De paja",
+        "De madera"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿De qué material construye su casa Nicolás, el hermano mayor?",
+      "opciones": [
+        "De ladrillos",
+        "De cartón",
+        "De paja"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Por qué acaba la madre el cuento con rapidez?",
+      "opciones": [
+        "Porque se le olvida el final",
+        "Porque tiene que irse a trabajar",
+        "Porque los cerditos no paran de interrumpir"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué mezcla de textos hay en la lectura 'Un cuento antes de dormir'?",
+      "opciones": [
+        "Un cuento dentro de otro cuento",
+        "Un poema dentro de una carta",
+        "Un cómic dentro de una noticia"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "En el cuento de la madre, ¿por qué se asusta Anita cuando oye 'comieron perdices'?",
+      "opciones": [
+        "Porque tenía miedo al lobo",
+        "Porque no le gustan las manzanas",
+        "Porque pensaba que los humanitos eran vegetarianos"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se escribe el sonido g suave delante de las vocales a, o, u?",
+      "opciones": [
+        "Con gü (güato, lagü)",
+        "Con g (gato, lago, gusano)",
+        "Con gu (guato, lagu)"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se escribe el sonido g suave delante de e, i cuando la u NO suena?",
+      "opciones": [
+        "Con gu (hoguera, guirnalda)",
+        "Con j (hojera, jirnalda)",
+        "Con gü (hogüera, güirnalda)"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo se escribe el sonido g suave delante de e, i cuando la u SÍ suena?",
+      "opciones": [
+        "Con g (cigeña, pingino)",
+        "Con gü (cigüeña, pingüino)",
+        "Con gu (cigueña, pinguino)"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se llaman los dos puntos que se colocan sobre la ü para indicar que suena?",
+      "opciones": [
+        "Diéresis",
+        "Comillas",
+        "Tilde"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estas palabras está escrita correctamente?",
+      "opciones": [
+        "Pingüino",
+        "Pingino",
+        "Pinguino"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estas palabras está escrita correctamente?",
+      "opciones": [
+        "Paragüero",
+        "Paraguero",
+        "Paragero"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estas palabras está escrita correctamente?",
+      "opciones": [
+        "Madriguera",
+        "Madrigera",
+        "Madrigüera"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estas palabras necesita diéresis para sonar bien?",
+      "opciones": [
+        "Cigüeña",
+        "Guindilla",
+        "Espaguetis"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estas palabras NO lleva diéresis porque la u no suena?",
+      "opciones": [
+        "Lengüeta",
+        "Piragüista",
+        "Higuera"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la forma correcta de escribir el adorno típico de Navidad?",
+      "opciones": [
+        "Girnalda",
+        "Güirnalda",
+        "Guirnalda"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué son las onomatopeyas?",
+      "opciones": [
+        "Palabras que representan los sonidos que realizan los objetos, animales o personas",
+        "Palabras que indican la distancia de un objeto",
+        "Palabras que sirven para nombrar a las personas"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué onomatopeya representa el sonido de un reloj?",
+      "opciones": [
+        "Muuuu",
+        "Croac",
+        "Tic, tac"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué onomatopeya representa el sonido de una rana?",
+      "opciones": [
+        "Buaaa",
+        "Ding-dong",
+        "Croac"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué onomatopeya representa el sonido de un estornudo?",
+      "opciones": [
+        "¡Oink, oink!",
+        "¡Achís!",
+        "¡Riiing!"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál de estas onomatopeyas corresponde al sonido de un objeto?",
+      "opciones": [
+        "Quiquiriquí (gallo)",
+        "Miau (gato)",
+        "Ding-dong (timbre)"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Dónde van colocados los determinantes respecto al nombre al que acompañan?",
+      "opciones": [
+        "Detrás del verbo siempre",
+        "Delante del nombre y tienen su mismo género y número",
+        "Al final de todas las oraciones"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuáles son los determinantes artículos determinados?",
+      "opciones": [
+        "Un, una, unos, unas",
+        "El, la, los, las",
+        "Este, esta, estos, estas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuáles son los determinantes artículos indeterminados?",
+      "opciones": [
+        "Mi, tu, su",
+        "El, la, los, las",
+        "Un, una, unos, unas"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Para qué sirven los determinantes artículos determinados (el, la, los, las)?",
+      "opciones": [
+        "Se refieren a seres o cosas no concretas",
+        "Indican a quién pertenece algo",
+        "Se refieren a una persona, animal o cosa concreta"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indican los determinantes demostrativos?",
+      "opciones": [
+        "La cantidad exacta de objetos",
+        "Las acciones que realizan los animales",
+        "La distancia que hay entre la persona que habla y el objeto al que se refiere"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué determinantes demostrativos indican CERCANÍA?",
+      "opciones": [
+        "Este, esta, estos, estas",
+        "Aquel, aquella, aquellos, aquellas",
+        "Ese, esa, esos, esas"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué determinantes demostrativos indican DISTANCIA MEDIA?",
+      "opciones": [
+        "Aquel, aquella, aquellos, aquellas",
+        "Ese, esa, esos, esas",
+        "Este, esta, estos, estas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué determinantes demostrativos indican LEJANÍA?",
+      "opciones": [
+        "Ese, esa, esos, esas",
+        "Aquel, aquella, aquellos, aquellas",
+        "Este, esta, estos, estas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "En 'aquella tortuga', ¿qué distancia indica el determinante demostrativo 'aquella'?",
+      "opciones": [
+        "Lejos",
+        "Cerca",
+        "Distancia media"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué indican los determinantes posesivos?",
+      "opciones": [
+        "A quién pertenece algo o con quién tiene relación",
+        "Si un objeto está cerca o lejos",
+        "El sonido que hace un animal"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estos determinantes posesivos corresponde a UN solo poseedor?",
+      "opciones": [
+        "Mi, tu, su (mis, tus, sus)",
+        "Nuestro, vuestro",
+        "Nuestras, vuestras"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estos determinantes posesivos corresponde a VARIOS poseedores?",
+      "opciones": [
+        "Mi, mis",
+        "Tu, tus",
+        "Nuestra, vuestro, sus"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Completa correctamente: 'Vosotros vivís en Murcia. ___ casa es grande.'",
+      "opciones": [
+        "Vuestra",
+        "Mi",
+        "Vuestras"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es un lapbook según el libro?",
+      "opciones": [
+        "Un cuaderno con solapas, bolsillos e imágenes que sirve para mostrar información de forma divertida",
+        "Una aplicación para hacer sumas",
+        "Un diccionario con palabras en inglés"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "En el lapbook del lobo, ¿qué apartado responde a 'Tiene el cuerpo cubierto de pelo gris oscuro y las orejas puntiagudas'?",
+      "opciones": [
+        "¿Qué come?",
+        "¿Cómo es?",
+        "¿Dónde vive?"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué consejo da el libro antes de empezar a hablar en una exposición oral para relajarse?",
+      "opciones": [
+        "Sonreír y respirar profundamente tres veces soltando el aire poco a poco",
+        "Leer el texto muy rápido sin mirar a nadie",
+        "Hablar en voz muy bajita mirando al suelo"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué son las fábulas?",
+      "opciones": [
+        "Noticias reales sobre el tiempo que va a hacer",
+        "Historias protagonizadas por animales que piensan, hablan y actúan como personas, y tienen moraleja",
+        "Recetas de cocina con dibujos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tienen siempre las fábulas al final?",
+      "opciones": [
+        "Una moraleja o enseñanza final",
+        "Un mapa del tesoro",
+        "Una lista de la compra"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "En la fábula 'El lobo y la cabra', ¿por qué el cabritillo no abre la puerta al lobo?",
+      "opciones": [
+        "Porque estaba dormido y no le oyó",
+        "Porque aunque oía la voz de su madre, no veía su cuerpo",
+        "Porque había perdido la llave"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la moraleja de la fábula 'El lobo y la cabra'?",
+      "opciones": [
+        "Las cabras son más fuertes que los lobos",
+        "Debemos distinguir entre los buenos y los malos consejos",
+        "Todos los consejos son buenos y hay que seguirlos siempre"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "En el vocabulario de la fábula, ¿qué significa la palabra 'sensatos'?",
+      "opciones": [
+        "Que saben lo que hacen",
+        "Que engañan a los demás",
+        "Que tienen mucho miedo"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa la palabra 'desleal' en la fábula?",
+      "opciones": [
+        "Que tiene mucha prisa",
+        "Que ayuda siempre",
+        "Que engaña"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se llama la persona que hace los dibujos de un libro?",
+      "opciones": [
+        "Ilustrador",
+        "Editorial",
+        "Traductor"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo se llama la persona que pasa el texto de un libro de un idioma a otro?",
+      "opciones": [
+        "Traductor",
+        "Ilustrador",
+        "Autor"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "En 'El desafío de enigma: Como si fuéramos animales', ¿con qué cualidad se relaciona al búho?",
+      "opciones": [
+        "Sabiduría",
+        "Fuerza",
+        "Fidelidad"
+      ],
+      "correcta": 0
+    }
+  ],
+  "cono": [
+    {
+      "pregunta": "¿Qué tres partes principales poseen la mayoría de las plantas?",
+      "opciones": [
+        "Alas, pico y patas",
+        "Tronco, corteza y espinas únicamente",
+        "Raíz, tallo y hojas"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de la raíz de una planta?",
+      "opciones": [
+        "Fabricar el alimento gracias a la luz del sol",
+        "Sujetar la planta al suelo y tomar agua y sales minerales",
+        "Atraer a los insectos con sus colores llamativos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Dónde se encuentra habitualmente la raíz de una planta?",
+      "opciones": [
+        "En el centro de los pétalos de la flor",
+        "En la punta más alta de las ramas",
+        "Debajo de la planta, bajo el suelo"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué funciones cumple el tallo de una planta?",
+      "opciones": [
+        "Sostener las hojas y transportar sustancias y alimento",
+        "Absorber el agua directamente de la tierra",
+        "Guardar los óvulos dentro de una estructura con forma de botella"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo son las plantas herbáceas?",
+      "opciones": [
+        "No tienen ni tallo ni hojas",
+        "Tienen un tronco duro y muy grueso, como el pino",
+        "Tienen el tallo blando y flexible, como el trigo"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se clasifican las plantas leñosas (con tallo duro)?",
+      "opciones": [
+        "En raíces y hojas",
+        "En arbustos y árboles",
+        "En musgos y helechos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué se diferencian los arbustos de los árboles?",
+      "opciones": [
+        "Los arbustos tienen el tallo blando como la hierba y los árboles no",
+        "Los arbustos tienen tallos delgados y sus ramas salen del suelo; los árboles tienen un tallo grueso llamado tronco",
+        "Los arbustos tienen troncos muy gruesos y los árboles no tienen ramas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué ejemplo de arbusto aparece en el libro?",
+      "opciones": [
+        "El pino",
+        "La jara",
+        "El trigo"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué ejemplo de árbol aparece en el libro?",
+      "opciones": [
+        "El pino",
+        "El trigo",
+        "El musgo"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Dónde fabrica su alimento la planta?",
+      "opciones": [
+        "En el cáliz",
+        "En la raíz",
+        "En las hojas"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué son las hojas caducas?",
+      "opciones": [
+        "Las hojas verdes que protegen la flor por debajo",
+        "Las de las plantas que pierden todas sus hojas a la vez",
+        "Las de las plantas que nunca pierden ninguna hoja"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué son las plantas de hoja perenne?",
+      "opciones": [
+        "Las que no pierden todas sus hojas a la vez, sino que las cambian poco a poco",
+        "Las que pierden todas sus hojas en otoño y se quedan desnudas",
+        "Las plantas que viven sin hojas durante todo el año"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuáles son las dos partes que presenta una hoja?",
+      "opciones": [
+        "La corola y el cáliz",
+        "El limbo y el peciolo",
+        "El pistilo y los estambres"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es el limbo de una hoja?",
+      "opciones": [
+        "El rabito que une la hoja con el tallo",
+        "La semilla que cae al suelo",
+        "La parte plana de la hoja"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es el peciolo de una hoja?",
+      "opciones": [
+        "El tubo que transporta agua desde la raíz",
+        "La parte que une el limbo con el tallo",
+        "La parte más ancha y plana de la hoja"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué se diferencia la alimentación de las plantas de la de los animales?",
+      "opciones": [
+        "Las plantas cazan insectos para alimentarse y los animales fabrican su comida",
+        "Las plantas no necesitan agua ni sustancias para vivir",
+        "Las plantas elaboran su propio alimento, mientras que los animales deben conseguir su comida"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se llama el proceso mediante el cual las plantas fabrican su propio alimento?",
+      "opciones": [
+        "Fotosíntesis",
+        "Fecundación",
+        "Diseminación"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué cuatro elementos necesitan las plantas para realizar la fotosíntesis?",
+      "opciones": [
+        "Solo tierra seca, oscuridad y oxígeno",
+        "Abono, flores, insectos y viento",
+        "Agua, sales minerales, dióxido de carbono y luz solar"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se llama la mezcla de agua y sales minerales que la planta absorbe por la raíz?",
+      "opciones": [
+        "Savia bruta",
+        "Savia elaborada",
+        "Polen"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué tubos del interior del tallo transportan la savia bruta desde la raíz hasta las hojas?",
+      "opciones": [
+        "Los vasos liberianos",
+        "Los vasos leñosos",
+        "Los estambres"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué gas toman las hojas del aire para hacer la fotosíntesis?",
+      "opciones": [
+        "Oxígeno",
+        "Dióxido de carbono",
+        "Vapor de agua únicamente"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se llama el alimento ya fabricado en las hojas que se reparte por toda la planta?",
+      "opciones": [
+        "Savia elaborada",
+        "Sales minerales",
+        "Savia bruta"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué tubos del tallo transportan la savia elaborada desde las hojas al resto de la planta?",
+      "opciones": [
+        "Los vasos leñosos",
+        "Los vasos liberianos",
+        "Los peciolos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué gas producen y expulsan las plantas a través de sus hojas durante la fotosíntesis?",
+      "opciones": [
+        "Oxígeno",
+        "Dióxido de carbono",
+        "Humo"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Dónde almacenan las plantas el alimento que no utilizan en ese momento?",
+      "opciones": [
+        "Fuera de la planta, debajo de las piedras",
+        "Solo en los pétalos de las flores",
+        "En las hojas, el tallo y la raíz (como en patatas, zanahorias o remolachas)"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el órgano reproductor de las plantas con flores?",
+      "opciones": [
+        "El peciolo",
+        "La raíz",
+        "La flor"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se reproducen las plantas sin flores, como los musgos y los helechos?",
+      "opciones": [
+        "Por medio de frutos con pepitas",
+        "Por medio de esporas",
+        "Gracias a los pétalos de colores"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué dos ejemplos de plantas sin flores menciona el tema?",
+      "opciones": [
+        "El rosal y el girasol",
+        "El fresno y el pino",
+        "Los musgos y los helechos"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se llama la reproducción de las plantas con flores por medio de semillas?",
+      "opciones": [
+        "Fotosíntesis",
+        "Reproducción sexual",
+        "Reproducción asexual"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué consiste la reproducción asexual de una planta?",
+      "opciones": [
+        "En la caída de todas las hojas en invierno",
+        "En la unión del polen con los óvulos dentro de la flor",
+        "En reproducirse a partir de un trozo o fragmento de la misma planta"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué parte de la flor es un conjunto de hojas de colores llamadas pétalos que atraen a los insectos?",
+      "opciones": [
+        "El pistilo",
+        "El cáliz",
+        "La corola"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es el cáliz de una flor?",
+      "opciones": [
+        "El tubo con forma de botella donde están los óvulos",
+        "Un conjunto de pequeñas hojas verdes que sujetan la corola al tallo y protegen la flor",
+        "Las bolsitas donde se guardan los granos de polen"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué son los estambres de una flor?",
+      "opciones": [
+        "Hojas de colores muy llamativos que atraen mariposas",
+        "Las raíces que sujetan la planta bajo tierra",
+        "Filamentos que acaban en pequeñas bolsitas donde están los granos de polen"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es el pistilo de una flor?",
+      "opciones": [
+        "Una estructura en forma de botella en cuyo interior están los óvulos",
+        "El tallo leñoso de un árbol",
+        "La parte plana de una hoja"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuándo se produce la fecundación en una flor?",
+      "opciones": [
+        "Cuando la planta absorbe agua por la raíz",
+        "Cuando el viento mueve las hojas del árbol",
+        "Cuando los granos de polen entran en el pistilo y se unen a los óvulos"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "Después de la fecundación, ¿en qué se transforman el pistilo y los óvulos de la flor?",
+      "opciones": [
+        "La flor se convierte en un musgo sin semillas",
+        "El pistilo se convierte en el fruto y los óvulos en semillas",
+        "El pistilo se convierte en raíz y los óvulos en tronco"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué necesita una semilla cuando cae al suelo para germinar y formar una nueva planta?",
+      "opciones": [
+        "Que le arranquen la raíz nada más salir",
+        "Oscuridad total y tierra completamente seca",
+        "Suelo húmedo y una temperatura adecuada"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "En el experimento de 'Ciencia en acción' con el poto, ¿qué es un esqueje?",
+      "opciones": [
+        "Una semilla muy grande que cae de un árbol",
+        "Un insecto que lleva polen de una flor a otra",
+        "Un fragmento de una rama o un tallo que se planta para que enraíce y forme una planta"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo sobrevive el cactus en terrenos áridos con poca agua?",
+      "opciones": [
+        "Tiene raíces flotantes en lagos y charcas",
+        "Almacena agua en sus tallos",
+        "Trepa por otros árboles para buscar lluvia"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Dónde vive el nenúfar gracias a sus raíces adaptadas a la vida acuática?",
+      "opciones": [
+        "En la nieve de las altas montañas",
+        "En estanques, lagos o charcas",
+        "En desiertos muy secos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Para qué tienen espinas plantas como el espino o los rosales?",
+      "opciones": [
+        "Para volar con el viento",
+        "Para absorber más luz del sol",
+        "Para protegerse de sus depredadores"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Para qué sirve el color llamativo de las flores de la lavanda o la caléndula?",
+      "opciones": [
+        "Para asustar a los pájaros y que no se acerquen",
+        "Para guardar agua dentro de los pétalos",
+        "Para atraer a los insectos que llevarán el polen a otras flores"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se diseminan (esparcen) las semillas del cardo?",
+      "opciones": [
+        "Con ayuda del viento o prendidas del pelaje o cuerpo de los animales",
+        "Nadando por debajo del agua del mar",
+        "Saltando solas gracias a sus raíces"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Hacia dónde crece el tallo del girasol?",
+      "opciones": [
+        "Siempre hacia donde sopla el viento frío",
+        "Hacia el interior de la tierra",
+        "Hacia la luz del sol"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Por qué trepa la buganvilla apoyándose en otras plantas?",
+      "opciones": [
+        "Para huir del agua de lluvia",
+        "Para alcanzar la luz del sol",
+        "Para esconderse en la oscuridad"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Por qué algunas plantas pierden sus hojas en invierno?",
+      "opciones": [
+        "Porque les pesa demasiado el polen",
+        "Para ahorrar energía y agua",
+        "Para convertirse en plantas acuáticas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿De qué parte de la planta nos alimentamos cuando comemos zanahoria?",
+      "opciones": [
+        "De la flor",
+        "De la raíz",
+        "De la hoja"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿De qué parte de la planta nos alimentamos cuando comemos lechuga?",
+      "opciones": [
+        "Del fruto",
+        "De la raíz",
+        "De la hoja"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "En el experimento de Inés, Jacobo y Claudia, ¿qué planta creció sana?",
+      "opciones": [
+        "La de Claudia, que tenía luz pero no la regó nunca",
+        "La de Inés, que tenía abundante luz y riego suficiente",
+        "La de Jacobo, que estaba en una habitación oscura"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Según la lectura 'Albóndigas de semillas', ¿qué se mezcla con las semillas para hacer las bolitas?",
+      "opciones": [
+        "Harina, azúcar y leche",
+        "Arena de playa, sal y aceite",
+        "10 partes de abono, 1 parte de arcilla y un poco de agua"
+      ],
+      "correcta": 2
+    }
+  ]
+}
